@@ -1,0 +1,6 @@
+{
+  "ETHEREUM": "https://api.etherscan.io/api",
+  "ETHEREUM_GOERLI": "https://api-goerli.etherscan.io/api",
+  "BASE": "https://api-goerli.basescan.org//api",
+  "BASETEST": "https://api-goerli.basescan.org//api"
+}

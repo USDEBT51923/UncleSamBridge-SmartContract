@@ -1,0 +1,10 @@
+{
+  "mainnet": [
+    "ethereum",
+    "base"
+  ],
+  "testnet": [
+    "goerli",
+    "basetest"
+  ]
+}

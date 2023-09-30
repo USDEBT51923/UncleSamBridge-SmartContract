@@ -1,0 +1,30 @@
+{
+	"ethereum": {
+		"name": "Ethereum Mainnet ETH",
+		"symbol": "ETH",
+		"minAmount": "0.0001",
+		"useMinAmount": true,
+		"contractName": "NativeOFT"
+	},
+	"goerli": {
+		"name": "Ethereum Testnet Goerli ETH",
+		"symbol": "GETH",
+		"minAmount": "0.0001",
+		"useMinAmount": true,
+		"contractName": "NativeOFT"
+	},
+	"base": {
+		"name": "Base Mainnet ETH",
+		"symbol": "ETH",
+		"minAmount": "0.0001",
+		"useMinAmount": true,
+		"contractName": "NativeOFT"
+	},
+	"basetest": {
+		"name": "Base Goerli ETH",
+		"symbol": "GETH",
+		"minAmount": "0.0001",
+		"useMinAmount": true,
+		"contractName": "NativeOFT"
+	}	
+}
